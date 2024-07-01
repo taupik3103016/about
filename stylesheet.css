@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 1px;
+  background-color: #f9f9f9;
+}
+.container {
+  max-width: 800px;
+  margin: auto;
+  background: #fff;
+  padding: 1px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+h1 {
+  color: #333;
+}
+h2 {
+  color: #666;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+ul li {
+  padding: 8px 0;
+}
